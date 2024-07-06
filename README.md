@@ -1,4 +1,4 @@
-# 🌟 React & CSS Component Gallery
+# 🌟 Galeria REACT y CSS
 
 ¡Bienvenido a la **Galería de Componentes de React y CSS**! Este proyecto de código abierto está dedicado a proporcionar una colección de componentes reutilizables que puedes usar libremente en tus proyectos de desarrollo web. La comunidad también está invitada a contribuir y mejorar la colección.
 
