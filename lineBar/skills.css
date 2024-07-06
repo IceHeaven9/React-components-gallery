@@ -1,0 +1,24 @@
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1.5rem;
+}
+
+.skills-inner-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.skills-title {
+  color: #b1b1b1;
+  font-size: 0.75rem;
+  font-weight: bold;
+  background: linear-gradient(to bottom left, var(--tw-gradient-stops));
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

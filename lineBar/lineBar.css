@@ -1,0 +1,35 @@
+.linebar-container {
+  width: 100%;
+  min-width: 15rem;
+}
+
+.linebar-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+
+}
+
+.linebar-title,
+.linebar-percent {
+  font-size: 0.75rem;
+  color: #9ca3af;
+}
+
+.linebar-background {
+  width: 100%;
+  background-color: #e5e7eb;
+  border-radius: 9999px;
+  height: 0.5rem;
+}
+
+.linebar-fill {
+  height: 0.5rem;
+  border-radius: 9999px;
+  width: 4rem;
+  background-color: rgb(36, 110, 221);
+}
+
+.dark .linebar-background {
+  background-color: #374151;
+}
