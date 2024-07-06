@@ -36,7 +36,7 @@ Para instalar cualquier componente de esta galería, sigue estos sencillos pasos
 
  ## 🚀 Uso
    
-Para utilizar un componente en tu proyecto, simplemente copialo y úsalo en tu aplicación de React, algunos componentes contienen varios archivos.
+Para utilizar un componente en tu proyecto, simplemente copialo y pegalo en tu aplicación de React, algunos componentes contienen varios archivos.
  Aquí tienes un ejemplo de cómo hacerlo:
 
        import React from 'react';
