@@ -4,12 +4,12 @@
 
 ## 📖 Tabla de Contenidos
 
-- [Introducción](#introducción)
-- [Características](#características)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Introducción](#Introducción)
+- [Características](#Características)
+- [Instalación](#Instalación)
+- [Uso](#Uso)
+- [Contribuciones](#Contribuciones)
+- [Licencia](#Licencia)
 
 ## 📝 Introducción
 
