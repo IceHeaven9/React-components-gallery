@@ -1,6 +1,6 @@
-import "./formUi.css";
+import "./simpleForm.css";
 
-export const FormUi = () => {
+export const SimpleForm = () => {
 	return (
 		<form className="form">
 			<h2 className="title">CONTACTO</h2>
